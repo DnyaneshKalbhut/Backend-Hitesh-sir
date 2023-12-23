@@ -1,0 +1,14 @@
+{
+  "name": "backend-project",
+  "version": "1.0.0",
+  "description": "these contain backend Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dnyanesh",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
